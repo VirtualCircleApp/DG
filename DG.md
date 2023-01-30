@@ -4,5 +4,5 @@
 "Link": "tg://resolve?domin=Modify_BackUp",
 "Color": "#40d146",
 "Button": "JOIN",
-"Show": "on"
+"Show": "off"
 }
